@@ -1,4 +1,7 @@
 # Pac-Man-AI-Projects
+
+![image](https://user-images.githubusercontent.com/72692826/183281042-e9252ede-8991-4935-a753-2943793f23a6.png)
+
 The Pac-Man projects were developed for UC Berkeley's introductory artificial intelligence course, CS 188. They apply an array of AI techniques to playing Pac-Man.
 ## Project Description
 
